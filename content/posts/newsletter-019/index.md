@@ -162,6 +162,21 @@ this in action!
 [Yuwen]: https://www.yuwen-li.com/
 [Taipei]: http://abstreet.s3-website.us-east-2.amazonaws.com/dev/game/?--dev&tw/taipei/maps/center.bin
 
+### Project YAWC
+
+![A screenshot from a game of Project YAWC.](./yawc_n19.png)
+
+Project YAWC is a turn-based strategy game in development by junkmail. February
+saw the release of Alpha 4, bringing special units and auctions to determine
+ownership of special units, as well as changes to netcode, balance, and UI.
+
+Those interested in participating in the alpha test should fill out this [form].
+To learn more, you can follow the new [Twitter] or send an e-mail to
+projectyawc@gmail.com.
+
+[form]: https://forms.gle/tzP6oRaJmApgMyrj7
+[Twitter]: https://twitter.com/projectyawc
+
 ## Library & Tooling Updates
 
 ### [rkyv]
